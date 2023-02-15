@@ -1,0 +1,17 @@
+{
+  "header": {
+    "main": "Головна",
+    "menu": "Меню",
+    "delivery": "Доставка та оплата",
+    "review": "Відгуки",
+    "contacts": "Контакти"
+  },
+  "main": {
+    "let's-go": "За покупками"
+  },
+  "cart": {
+    "empty-header": "Ваш кошик порожній",
+    "empty-propose-pt1": "Бажаете замовити ",
+    "empty-propose-pt2": "млинці"
+  }
+}

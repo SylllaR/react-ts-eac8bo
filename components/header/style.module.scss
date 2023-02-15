@@ -1,0 +1,100 @@
+@import '../../styles/variables';
+
+.header-container {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  margin-top: 15px;
+  z-index: 1000;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  max-width: 1200px;
+  width: 100%;
+  margin: auto;
+}
+.logo-container {
+  width: 150px;
+  margin-top: -7px;
+}
+.nav {
+  &-list {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 15px;
+  }
+  &-link {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    background-image: linear-gradient(
+      to left,
+      $color-red,
+      $color-red 50%,
+      $color-white 50%
+    );
+    background-size: 200% 100%;
+    background-position: 0;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+    &:hover,
+    &:focus-visible {
+      background-position: -100%;
+    }
+
+    &.active {
+      background-image: none;
+      -webkit-text-fill-color: $color-red;
+    }
+  }
+}
+
+.socials {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  &-list {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 10px;
+  }
+}
+
+.cart-btn {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  margin: 0 15px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  & svg {
+    color: $color-text-white;
+  }
+  &-mark {
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    border: 2px solid $color-white;
+    width: 15px;
+    height: 15px;
+    background-color: $color-red;
+    font-size: 10px;
+    color: $color-text-white;
+  }
+}

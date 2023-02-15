@@ -1,0 +1,17 @@
+{
+  "header": {
+    "main": "Главная",
+    "menu": "Меню",
+    "delivery": "Доставка и оплата",
+    "review": "Отзывы",
+    "contacts": "Контакты"
+  },
+  "main": {
+    "let's-go": "За покупками"
+  },
+  "cart": {
+    "empty-header": "Ваша корзина пуста",
+    "empty-propose-pt1": "Хотите заказать ",
+    "empty-propose-pt2": "блинчики"
+  }
+}

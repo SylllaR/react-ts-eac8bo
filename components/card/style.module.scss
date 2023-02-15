@@ -1,0 +1,48 @@
+@import '../../styles/variables';
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 300px;
+  background-color: $color-gray;
+  border-radius: 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  &-title {
+    font-size: 18px;
+    color: $color-text-white;
+    transition: color 0.2s ease-in;
+    &:hover {
+      color: $color-red;
+    }
+  }
+  &-img {
+    width: 100%;
+    &-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 270px;
+      height: 200px;
+    }
+  }
+  &-btn {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  &-icons {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    height: 30px;
+    width: 100%;
+  }
+  &-icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+  }
+}
