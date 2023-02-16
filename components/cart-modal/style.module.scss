@@ -96,12 +96,13 @@
 .cards-container {
   width: 95%;
   max-height: 75vh;
-  overflow-y: scroll;
+  margin-bottom: 3%;
+  overflow-y: auto;
 }
 
 .cart-header {
   color: $color-text-white;
   font-size: 30px;
-  margin-bottom: 15px;
+  margin: 3% 0;
   z-index: 1500;
 }
