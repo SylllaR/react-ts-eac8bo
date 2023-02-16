@@ -13,6 +13,7 @@
     "empty-header": "Ваша корзина пуста",
     "empty-propose-pt1": "Хотите заказать ",
     "empty-propose-pt2": "блинчики",
-    "title": "Корзина"
+    "title": "Корзина",
+    "cancel-btn": "Очистить корзину"
   }
 }

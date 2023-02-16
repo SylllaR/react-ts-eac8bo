@@ -70,12 +70,21 @@ export const CartModal: React.FC<{
               <BrushButton title={t("main.let's-go")} onClick={goToMenu} />
             </div>
           ) : (
-            <div>
-              <h2 className={cx('empty-cart-header')}>{t('cart.title')}</h2>
+            <div className={cx('cart-container')}>
+              <h2 className={cx('cart-header')}>{t('cart.title')}</h2>
               <div className={cx('cards-container')}>
                 <CartCard />
+                <CartCard />
+                <CartCard />
+                <CartCard />
+                <CartCard />
+                <CartCard />
+                <CartCard />
               </div>
-              <button onClick={cancelAllOrders}>Cancel All</button>
+              <BrushButton
+                title={t('cart.cancel-btn')}
+                onClick={cancelAllOrders}
+              />
             </div>
           )}
 

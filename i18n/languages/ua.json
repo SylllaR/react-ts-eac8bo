@@ -13,6 +13,7 @@
     "empty-header": "Ваш кошик порожній",
     "empty-propose-pt1": "Бажаете замовити ",
     "empty-propose-pt2": "млинці",
-    "title": "Кошик"
+    "title": "Кошик",
+    "cancel-btn": "Очистити кошик"
   }
 }
