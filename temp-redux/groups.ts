@@ -1,1 +1,1 @@
-export const groups = 
+export const groups = {};

@@ -5,7 +5,7 @@ const products = {
       name: 'Блинчики с клубникой',
       weight: 650,
       price: 70,
-      img: 'https://lh3.google.com/u/0/d/19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt=w1920-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt',
       properties: ['vegeterian'],
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
@@ -20,7 +20,7 @@ const products = {
       name: 'Блинчики с клубникой',
       weight: 650,
       price: 70,
-      img: 'https://lh3.google.com/u/0/d/19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt=w1920-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt',
       properties: ['vegeterian', 'pork'],
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
@@ -35,7 +35,7 @@ const products = {
       name: 'Блинчики с клубникой',
       weight: 650,
       price: 45,
-      img: 'https://lh3.google.com/u/0/d/19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt=w1920-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt',
       properties: ['vegeterian', 'beef'],
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
@@ -50,7 +50,7 @@ const products = {
       name: 'Блинчики с клубникой',
       weight: 650,
       price: 45,
-      img: 'https://lh3.google.com/u/0/d/19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt=w1920-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt',
       properties: ['vegeterian'],
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
@@ -65,7 +65,7 @@ const products = {
       name: 'Блинчики с клубникой',
       weight: 650,
       price: 45,
-      img: 'https://lh3.google.com/u/0/d/19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt=w1920-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt',
       properties: ['vegeterian'],
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
@@ -80,7 +80,7 @@ const products = {
       name: 'Блинчики с клубникой',
       weight: 650,
       price: 45,
-      img: 'https://lh3.google.com/u/0/d/19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt=w1920-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt',
       properties: ['vegeterian'],
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
@@ -95,7 +95,7 @@ const products = {
       name: 'Блинчики с клубникой',
       weight: 650,
       price: 45,
-      img: 'https://lh3.google.com/u/0/d/19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt=w1920-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=19yKN_Eeaf6z22IHkMh8tHqcUA_6HK3Pt',
       properties: ['vegeterian'],
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
@@ -112,7 +112,7 @@ const products = {
       name: 'Пельмени со свининой и говядиной',
       weight: 650,
       price: 45,
-      img: 'https://lh3.google.com/u/0/d/1Xx2psEmqTyfZqeu_0UGAMYvNOopX47SZ=w1209-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=1Xx2psEmqTyfZqeu_0UGAMYvNOopX47SZ',
       properties: ['pork', 'beef'],
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
@@ -127,7 +127,7 @@ const products = {
       name: 'Пельмени со свининой и говядиной',
       weight: 650,
       price: 45,
-      img: 'https://lh3.google.com/u/0/d/1Xx2psEmqTyfZqeu_0UGAMYvNOopX47SZ=w1209-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=1Xx2psEmqTyfZqeu_0UGAMYvNOopX47SZ',
       properties: ['pork', 'beef'],
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
@@ -142,7 +142,7 @@ const products = {
       name: 'Пельмени со свининой и говядиной',
       weight: 650,
       price: 45,
-      img: 'https://lh3.google.com/u/0/d/1Xx2psEmqTyfZqeu_0UGAMYvNOopX47SZ=w1209-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=1Xx2psEmqTyfZqeu_0UGAMYvNOopX47SZ',
       properties: ['pork', 'beef'],
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
@@ -159,7 +159,7 @@ const products = {
       name: 'Чебуреки',
       weight: 650,
       price: 45,
-      img: 'https://lh3.google.com/u/0/d/1ffvQMiVuX8cjEd9mgNvpFgFJLL3jEAEb=w1097-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=1ffvQMiVuX8cjEd9mgNvpFgFJLL3jEAEb',
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
       properties: ['pork'],
@@ -174,7 +174,7 @@ const products = {
       name: 'Чебуреки',
       weight: 650,
       price: 45,
-      img: 'https://lh3.google.com/u/0/d/1ffvQMiVuX8cjEd9mgNvpFgFJLL3jEAEb=w1097-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=1ffvQMiVuX8cjEd9mgNvpFgFJLL3jEAEb',
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
       nutrients: {
@@ -190,7 +190,7 @@ const products = {
       name: 'Котлета куриная',
       weight: 650,
       price: 45,
-      img: 'https://lh3.google.com/u/0/d/17oQjVafqB42wKpRO2bRc-TlmtLk-iZu8=w1350-h912-iv1',
+      img: 'https://drive.google.com/uc?export=view&id=17oQjVafqB42wKpRO2bRc-TlmtLk-iZu8',
       consist:
         'Мука высшего сорта, яйца, сыворотка, клубника, шоколад, соленые огурцы, селедка слабосоленая, черно-пестрая корова.',
       nutrients: {

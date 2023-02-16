@@ -12,6 +12,7 @@
   "cart": {
     "empty-header": "Ваша корзина пуста",
     "empty-propose-pt1": "Хотите заказать ",
-    "empty-propose-pt2": "блинчики"
+    "empty-propose-pt2": "блинчики",
+    "title": "Корзина"
   }
 }

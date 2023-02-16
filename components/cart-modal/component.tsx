@@ -3,7 +3,7 @@ import classNames from 'classnames/bind';
 import styles from './style.module.scss';
 import { CloseIcon } from '../../img';
 import { useTranslation } from 'react-i18next';
-import { BrushButton } from '../../components';
+import { BrushButton, CartCard } from '../../components';
 import { useNavigate } from 'react-router-dom';
 import { SadSmile } from '../../img';
 import useMousePosition from '../../hooks/useMousePosition';
@@ -70,7 +70,13 @@ export const CartModal: React.FC<{
               <BrushButton title={t("main.let's-go")} onClick={goToMenu} />
             </div>
           ) : (
-            <button onClick={cancelAllOrders}>Cancel All</button>
+            <div>
+              <h2 className={cx('empty-cart-header')}>{t('cart.title')}</h2>
+              <div className={cx('cards-container')}>
+                <CartCard />
+              </div>
+              <button onClick={cancelAllOrders}>Cancel All</button>
+            </div>
           )}
 
           {/*

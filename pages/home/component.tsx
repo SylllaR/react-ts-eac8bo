@@ -45,18 +45,18 @@ export const Home: React.FC = () => {
         </div>
         <img
           className="main-content-img"
-          src="https://lh3.google.com/u/0/d/1AybsmnH0HU2Bd7cZ4xP0CI-izCPBhd9K=w1920-h969-iv1"
+          src="https://drive.google.com/uc?export=view&id=1AybsmnH0HU2Bd7cZ4xP0CI-izCPBhd9K"
         />
       </div>
 
       <div className="bottom-border">
         <img
           className="bottom-border-red"
-          src="https://lh3.google.com/u/0/d/1YhUd44aTueUXr-o-ZgC3AipoC5oL45Fb=w1920-h912-iv1"
+          src="https://drive.google.com/uc?export=view&id=1YhUd44aTueUXr-o-ZgC3AipoC5oL45Fb"
         />
         <img
           className="bottom-border-white"
-          src="https://lh3.google.com/u/0/d/1vSL2jwTwcix4Ao0URGgrSEpI6qYpJJnT=w1177-h969-iv1"
+          src="https://drive.google.com/uc?export=view&id=1vSL2jwTwcix4Ao0URGgrSEpI6qYpJJnT"
         />
       </div>
     </div>

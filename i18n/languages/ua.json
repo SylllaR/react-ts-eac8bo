@@ -12,6 +12,7 @@
   "cart": {
     "empty-header": "Ваш кошик порожній",
     "empty-propose-pt1": "Бажаете замовити ",
-    "empty-propose-pt2": "млинці"
+    "empty-propose-pt2": "млинці",
+    "title": "Кошик"
   }
 }
